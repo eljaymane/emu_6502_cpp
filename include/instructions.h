@@ -1,4 +1,5 @@
 #pragma once
+#include <types.h>
 
 //Add 1 cycle if page boundary is crossed
 enum class Instructions : Byte {
@@ -87,4 +88,4 @@ enum class Instructions : Byte {
 
   
 
-}
+};
