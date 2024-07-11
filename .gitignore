@@ -23,7 +23,9 @@ CMakeUserPresets.json
 /dataSources/
 /dataSources.local.xml
 
-/.idea/
+/.idea//
+.idea/
+build/
 build/
 
 .vscode/
